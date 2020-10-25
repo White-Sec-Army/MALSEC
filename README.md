@@ -1,5 +1,5 @@
 
-![alt text](https://raw.githubusercontent.com/White-Sec-Army/malsec/main/malsec.png)
+![Malsec](https://raw.githubusercontent.com/White-Sec-Army/malsec/main/malsec.png)
                                                                           v-1.4
 
 # Register:
@@ -32,14 +32,17 @@ Register Here to know the malsec-setup password:- https://forms.gle/SzdBM9DHU5Ew
 
 # Screenshots
 ##### Malsec GUI
-![alt text](https://raw.githubusercontent.com/White-Sec-Army/malsec/main/ss1.png)
+![ss1](https://raw.githubusercontent.com/White-Sec-Army/malsec/main/ss1.png)
 
 ##### MITM Detector
-![alt text](https://raw.githubusercontent.com/White-Sec-Army/malsec/main/ss2.png)
+![ss2](https://raw.githubusercontent.com/White-Sec-Army/malsec/main/ss2.png)
 
 ##### USB Protector
-![alt text](https://raw.githubusercontent.com/White-Sec-Army/malsec/main/ss3.png)
+![ss3](https://raw.githubusercontent.com/White-Sec-Army/malsec/main/ss3.png)
 
 # Have Any Issue ?
 ##### Please mail to us: justforthemail3@gmail.com
-![alt text](https://raw.githubusercontent.com/White-Sec-Army/malsec/main/ss4.png)
+![ss4](https://raw.githubusercontent.com/White-Sec-Army/malsec/main/ss4.png)
+
+# Special Thanks to:
+[Suprajatechnologies](https://www.suprajatechnologies.com)
