@@ -1,2 +1,0 @@
-;malsec 
-;defensive tool
