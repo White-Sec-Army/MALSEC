@@ -53,9 +53,12 @@ Register Here to know the malsec-setup password:- https://forms.gle/SzdBM9DHU5Ew
 ##### Hash checker
 ![ss6](https://raw.githubusercontent.com/White-Sec-Army/malsec/main/ss6.png)
 
+# Videos:
+### [Malsec Setup Installation](https://youtu.be/XXtM4YOCaVc)
+
 # Have Any Issue ?
-##### Please mail to us: justforthemail3@gmail.com
+### Please mail to us: justforthemail3@gmail.com
 ![ss4](https://raw.githubusercontent.com/White-Sec-Army/malsec/main/ss4.png)
 
 # Special Thanks to:
-[Suprajatechnologies](https://www.suprajatechnologies.com)
+### [Suprajatechnologies](https://www.suprajatechnologies.com)
