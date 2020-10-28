@@ -1,6 +1,6 @@
 
 ![Malsec](https://raw.githubusercontent.com/White-Sec-Army/malsec/main/malsec.png)
-                                                                          v-1.4
+                                                                          v-1.5
 
 # Register:
 Register Here to know the malsec-setup password:- https://forms.gle/SzdBM9DHU5EwuX6Z6
@@ -20,13 +20,20 @@ Register Here to know the malsec-setup password:- https://forms.gle/SzdBM9DHU5Ew
 ###### --Alert's the user with voice message
 ##### 2. USB Protector
 ###### --Protection from physical attacks
-##### 3. Virtual keyboard
-###### --Protection from keyloggers
-##### 4. Secure Logins
+##### 3. Secure Logins
 ###### --Automate the logins everytime
 ###### --No need to save the passwords in browser
 ###### --Uses AES and SHA-512 algorithms for security
 ###### --Salt will be added for additional protection
+##### 4. Crypter
+###### --Used to encrypt and decrypt the files
+
+## Extras
+##### 1. Public IP
+##### 2. Virtual keyboard
+###### --Protection from keyloggers
+##### 3. Hash Checker
+###### --Checks the hash for words and files
 
 # No Prerequisites Required
 
@@ -39,6 +46,12 @@ Register Here to know the malsec-setup password:- https://forms.gle/SzdBM9DHU5Ew
 
 ##### USB Protector
 ![ss3](https://raw.githubusercontent.com/White-Sec-Army/malsec/main/ss3.png)
+
+##### Crypter
+![ss5](https://raw.githubusercontent.com/White-Sec-Army/malsec/main/ss5.png)
+
+##### Hash checker
+![ss6](https://raw.githubusercontent.com/White-Sec-Army/malsec/main/ss6.png)
 
 # Have Any Issue ?
 ##### Please mail to us: justforthemail3@gmail.com
