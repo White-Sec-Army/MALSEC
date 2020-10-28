@@ -62,10 +62,10 @@ Register Here to know the malsec-setup password:- https://forms.gle/SzdBM9DHU5Ew
 # Videos:
 ### [Malsec Setup Installation](https://youtu.be/XXtM4YOCaVc)
 ### [How to Update Malsec ?](https://youtu.be/LSE7TwBBVgs)
-### [How to use Secure Logins Feature in Malsec](https://youtu.be/ehfoMGB6gMw)
-### [How to use the Hash Checker in Malsec](https://youtu.be/cYfristYc98)
-### [How to use the Crypter in Malsec](https://youtu.be/QfYy4V0e4n8)
-### [How to use MITM Detector in Malsec](https://youtu.be/sjHQjEc33lI)
+### [How to use Secure Logins Feature in Malsec ?](https://youtu.be/ehfoMGB6gMw)
+### [How to use the Hash Checker in Malsec ?](https://youtu.be/cYfristYc98)
+### [How to use the Crypter in Malsec ?](https://youtu.be/QfYy4V0e4n8)
+### [How to use MITM Detector in Malsec ?](https://youtu.be/sjHQjEc33lI)
 
 # Have Any Issue ?
 ### Please mail to us: justforthemail3@gmail.com
