@@ -71,5 +71,5 @@ Register Here to know the malsec-setup password:- https://forms.gle/SzdBM9DHU5Ew
 ### Please mail to us: justforthemail3@gmail.com
 ![ss4](https://raw.githubusercontent.com/White-Sec-Army/malsec/main/ss4.png)
 
-# Special Thanks to:
+# Our Organization:
 ### [Suprajatechnologies](https://www.suprajatechnologies.com)
