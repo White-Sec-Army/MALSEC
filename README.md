@@ -3,7 +3,7 @@
                                                                           v-1.5
 
 # Register:
-Register Here to know the malsec-setup password:- https://forms.gle/SzdBM9DHU5EwuX6Z6
+#### [Register Here to know the malsec-setup password](https://forms.gle/SzdBM9DHU5EwuX6Z6)
 
 # Features:
 ## Default Protections
@@ -73,3 +73,6 @@ Register Here to know the malsec-setup password:- https://forms.gle/SzdBM9DHU5Ew
 
 # Our Organization:
 ### [Suprajatechnologies](https://www.suprajatechnologies.com)
+
+# FeedBack:
+#### [Please give your valuable feedback here](https://forms.gle/AocTAAckJmwFEQu38)
