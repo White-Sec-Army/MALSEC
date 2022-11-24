@@ -71,8 +71,5 @@
 ### Please mail to us: justforthemail3@gmail.com
 ![ss4](https://raw.githubusercontent.com/White-Sec-Army/malsec/main/ss4.png)
 
-# Our Organization:
-### [Suprajatechnologies](https://www.suprajatechnologies.com)
-
 # FeedBack:
 #### [Please give your valuable feedback here](https://forms.gle/AocTAAckJmwFEQu38)
